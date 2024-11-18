@@ -7,14 +7,14 @@ let saldoDisponivel = 1000;
 let mensagemDeErro = 'Erro! Preencha todos os campos';
 alert(mensagemDeErro);
 
-// Solicita o nome do usuário
+
 nome = prompt('Qual é o seu nome?');  
 idade = prompt('Digite sua idade:'); 
 idade = parseInt(idade);  // Converte a idade para um número inteiro
 
-// Exibe um alerta com base na idade
+
 if (idade >= 18) {
-    alert('Pode tirar a habilitação!');  // Exibe a mensagem se a idade for maior ou igual a 18
+    alert('Pode tirar a habilitação!');  
 } else {
-    alert('Você ainda não tem idade suficiente para tirar a habilitação.');  // Caso contrário
+    alert('Você ainda não tem idade suficiente para tirar a habilitação.');  
 }
