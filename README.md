@@ -1,1 +1,2 @@
-# Atividades-alura-js
+# MEUS-TRABALHOS-NA-ALURA
+ Fiz a partir do curso LOGICA DE PROGRAMAÇÃO: MERGULHE EM PROGRAMAÇÃO COM JS
